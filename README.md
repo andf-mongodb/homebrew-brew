@@ -27,7 +27,7 @@ For example:
    $ brew install mongodb-community
    ```
 
- * Install the latest 4.e.x production release of MongoDB Community Server and command line tools:
+ * Install the latest 4.4.x production release of MongoDB Community Server and command line tools:
    ```
    $ brew install mongodb-community@4.4
    ```
